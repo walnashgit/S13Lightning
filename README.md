@@ -28,5 +28,5 @@
 ### Miss-classified images
 <img width="646" alt="image" src="https://github.com/walnashgit/S13Lightning/assets/73463300/b9298a00-4d4c-428e-a59f-7a897f66257e">
 
-### Miss-classified images with grad cam as -1 layer
+### Miss-classified images with grad cam at -1 layer
 <img width="547" alt="image" src="https://github.com/walnashgit/S13Lightning/assets/73463300/062e273d-01c0-437e-be1e-030dbb28bcf4">

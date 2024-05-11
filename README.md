@@ -1,10 +1,24 @@
 # S13 Resent Lightning
 
-## The code in jupityer notebook (S13Lightning.ipynb) trains a ResNet model written in pytorch lightning.
+## The code in jupityer notebook [S13Lightning.ipynb](https://github.com/walnashgit/S13Lightning/blob/main/S13Lightning.ipynb) trains the ResNet model written in pytorch lightning.
 
 ## Model: [S13ResNetLightning_model](https://github.com/walnashgit/ERAV2_main/blob/main/model/S13ResNetLightning_model.py)
 
 ## Demo: https://huggingface.co/spaces/walnash/erav2s13demo
+
+### Dependencies to install:
+
+    !pip install torch-lr-finder
+    !pip install grad-cam     
+    !pip install pytorch-lightning
+    
+### Clone the main repo for model and training code:
+    !git clone https://github.com/walnashgit/ERAV2_main.git
+
+Follow the code in S13Lightning.ipynb for detailed code.
+
+### LR Finder graph:
+<img width="582" alt="image" src="https://github.com/walnashgit/S13Lightning/assets/73463300/989eeea0-6088-4e5f-881c-ea066ed14574">
 
 ### Training and vaidation accuracy at last epoch
 
